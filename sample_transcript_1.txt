@@ -1,0 +1,45 @@
+00:00:00.000 --> 00:00:10.120
+Client RepA
+We we understand that bypass bypass file is to load a word open orders and you know close ordered history for a short period of time.
+00:00:11.150 --> 00:00:15.930
+Client RepA
+But while we were reviewing that bypass file and the audit types.
+00:00:16.380 --> 00:00:23.910
+Client RepA
+Uh, we we. We were wondering, you know how we would load our open?
+00:00:24.740 --> 00:00:44.030
+Client RepA
+Ah, allocations that you know the the money that has come in and we have we have allocations, but it's its not associated with any audits. How do we load that? We don't. We don't need to talk talk about it today, but you know that is something which we would like to, you know.
+00:00:44.090 --> 00:00:49.610
+Client RepA
+We'll talk to you all when you know when we when we are ready to talk about it.
+00:00:51.970 --> 00:00:55.470
+Our RepA
+If it's something you can fill out these.
+00:00:56.950 --> 00:01:06.040
+Org RepA
+These field names with values you can create an audit for those situations. RepA, if you have the required information we need to create an audit.
+00:01:09.720 --> 00:01:25.480
+Client RepA
+OK OK, uh RepB, but the the voluntary money that we get back, do they always result in an order it or you know in our current system? Or sometimes they do not?
+00:01:27.220 --> 00:01:38.680
+Client RepA
+Probably this is something that we need to take back and talk, you know, do all of our open voucher deducts. Sorry the voluntary refunds that we received. Do they all end up in an audit?
+00:01:31.010 --> 00:01:31.280
+Client RepB
+Yeah.
+00:01:40.010 --> 00:01:48.680
++12*******65
+OK, it's currently like we said last week. RepA no voluntary does not have to have a a what we call an AR.
+00:01:44.520 --> 00:01:45.030
+Client RepA
+Yeah.
+00:01:52.250 --> 00:01:52.540
++12*******65
+Uh.
+00:01:54.790 --> 00:02:00.690
++12*******65
+Almond I think we've kind of discussed last week of some type of automation where it would create an audit.
+00:02:02.720 --> 00:02:04.400
++12*******65
+Up for pairing it but.
