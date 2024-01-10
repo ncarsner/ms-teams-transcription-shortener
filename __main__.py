@@ -17,6 +17,14 @@ with open("sample_transcript_1.txt") as file:
     print(content)
 
 
+# def transform_name(name):
+#     for pattern, replacement in patterns.items():
+#         if re.match(pattern, name, flags=re.IGNORECASE | re.DOTALL):
+#             return replacement(re.match(pattern, name))
+
+# print(transform_name(content))
+
+
 # Function to format each match
 def format_match(m):
     return f"Timestamp: {m.group(1)}, Speaker: {m.group(2)}, Content: {m.group(3)}"
